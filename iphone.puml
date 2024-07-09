@@ -11,7 +11,7 @@ interface "Reprodutor Musical" as ReprodutorMusical {
 note top of ReprodutorMusical
   Interface encarregada de implementar
   a funcionalidade de reprodução de 
-  arquivos de áudio.
+  arquivos de áudios.
 end note
 
 note top of AparelhoTelefonico
@@ -68,8 +68,8 @@ entity "IPhone" as IPhone {}
 entity "FireFox" as FireFox {}
 entity "Chrome" as Chrome {}
 
-entity "Nokia 3310" as Nokia3310 {}
-entity "Motorola Razr V3" as MotorolaRazrV3 {}
+entity "poco M4pro" as poco M4pro {}
+entity "Motorola Razr 3420" as MotorolaRazr3420 {}
 
 entity "Walkman" as Walkman {}
 entity "Discman" as Discman {}
